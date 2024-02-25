@@ -1,4 +1,4 @@
 # IMDBMovieAnalysis
-An exploration of an IMDB dataset containing movies from the period of 1980 to 2020
+An exploration of an IMDB dataset containing movies from the period of 1980 to 2020. For this project, an IMDb movie dataset was imported into SQL Server from an Excel file. Through exploratory data analysis, various insights were gained regarding movie attributes such as ratings, scores, budgets, gross revenue, and votes. Feature engineering involved creating new metrics like profit and numeric representations for categorical data. Advanced analysis delved into trends over time, relationships between attributes, and identifying successful contributors. Visualization aided in understanding data distributions and trends. The project concluded with insights into the highest average gross revenue and total votes across different movie genres, providing valuable insights into factors influencing movie success.
 
 https://www.kaggle.com/datasets/danielgrijalvas/movies
