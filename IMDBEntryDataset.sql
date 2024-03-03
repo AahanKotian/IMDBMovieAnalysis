@@ -211,7 +211,7 @@ GROUP BY director
 ORDER BY AvgProfit DESC;
 -- The highest average profit by directory is Anthony Russo at a count of $1,138,649,796.8 after a total of 5 movies.
 
--- Which Comapny had the greatest profit?
+-- Which Company had the greatest profit?
 SELECT company, SUM(gross - budget) AS TotalProfit
 FROM imdbmovies
 WHERE gross IS NOT NULL AND budget IS NOT NULL
